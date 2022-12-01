@@ -59,6 +59,6 @@ public class Flower {
 
     @Override
     public String toString() {
-        return flower + "," + getFlowerColor() + " из " +  getCountry() + " стоимость за штуку - " + getCost() + " руб., срок стояния - " +  lifeSpan + " дней";
+        return flower + "," + getFlowerColor() + " из " +  getCountry() + " стоимость за штуку - " + getCost() + " руб., срок стояния - " +  lifeSpan + " дней.";
     }
 }
